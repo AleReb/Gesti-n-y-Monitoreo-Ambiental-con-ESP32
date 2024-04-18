@@ -59,7 +59,7 @@ WiFiManager wm;
 //// Firebase Setting
 //// fire base  parameters
 
-#define API_KEY       "AIzaSyB6mCpJNuFqAHd_I6U9u2oWYTEfm4LT8fs" //
+#define API_KEY       "AIs" //
 #define DATABASE_URL  "https://macayabackup-default-rtdb.firebaseio.com/"
 #define USER_EMAIL    "arebolledo@udd.cl"
 #define USER_PASSWORD "unodos34"
